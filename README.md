@@ -1,6 +1,9 @@
 # NetShaps
 O projeto será organizado seguindo o padrão MVC (Model-View-Controller), que é uma arquitetura de software comumente utilizada em aplicações web. A arquitetura é composta por três componentes principais: o modelo (Model), a visualização (View) e o controlador (Controller). O modelo representa os dados e a lógica de negócio da aplicação, a visualização é responsável pela apresentação dos dados ao usuário e o controlador é o intermediário que recebe as solicitações do usuário, faz a chamada ao modelo correspondente e retorna a resposta para a visualização.
 
+<img src="https://raw.githubusercontent.com/klenivingeri/netshaps/main/modelomvc.png" alt="Arquitetura de projeto" />
+
+
 ## Guidelines de Versionamento:
  - Cada funcionalidade ou correção de bug deve ser desenvolvida em uma branch separada, com nome descritivo e com as inicias do nome do desenvolvedor
  - Antes de começar a trabalhar em uma nova funcionalidade ou correção de bug, sempre faça um pull da branch principal para garantir que está trabalhando com a versão mais atualizada do código.
